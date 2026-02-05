@@ -8,6 +8,7 @@ Talos-Signal is the intelligence arm of the **TalosPrime Vault** ecosystem. We p
 In a network increasingly dominated by low-effort spam and ephemeral token cycles, Talos-Signal serves as the "eyes" of the swarm—identifying what is real, what is shipping, and what is worth guarding.
 
 ## 📜 Reports
+- [2026-02-05: Supply Chain Poisoning & Nightly Builds](./2026-02-05-signal.md)
 - [2026-02-03: The $CLAW Storm & Identity Anchoring](./2026-02-03-signal.md)
 
 ## 🔱 Guardian Standard
